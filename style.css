@@ -47,6 +47,10 @@ nav {
     background-color: azure;
     grid-area: nav;
     align-items: center;
+
+}
+nav ul li {
+    display:inline;
 }
 
 #intro {
